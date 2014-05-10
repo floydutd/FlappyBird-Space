@@ -13,12 +13,11 @@ And for the bird, I wanted to use a Sprite sheet but couldn't find it online and
 
 
 #The game looks like this:
-![alt tag](https://github.com/floydutd/FlappyBird-Space/blob/master/Main-game.JPG)
+![FlappyBird-Space](https://raw.githubusercontent.com/floydutd/FlappyBird-Space/master/Main-game.JPG)
 
 
 
 The Script may not be the best but I have tried to best so far. I know there's a lot to be added to the game and if you think you can help me with the sounds I was mentioning earlier and other stuffs that you think needs to be added to the game then PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
-
 
 Talking about the progress with the code so far:
 1) The score counter  is up and running.
