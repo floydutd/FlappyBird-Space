@@ -11,8 +11,10 @@ Apart from that I wanted to do something with the tunnels as well, the standard 
 
 And for the bird, I wanted to use a Sprite sheet but couldn't find it online and I am not that skillful to create one on my own. So, I used the Standard Yellow bird's picture.
 
-    The game looks like this:
-<img src = "Main-game.jpg">
+
+#The game looks like this:
+![alt tag](https://github.com/floydutd/FlappyBird-Space/blob/master/Main-game.JPG)
+
 
 
 The Script may not be the best but I have tried to best so far. I know there's a lot to be added to the game and if you think you can help me with the sounds I was mentioning earlier and other stuffs that you think needs to be added to the game then PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
