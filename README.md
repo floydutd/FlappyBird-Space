@@ -22,3 +22,5 @@ Talking about the progress with the code so far:
 1) The score counter  is up and running.
 2) The scrolling background images works pretty good as it had been giving me a lot of trouble.
 3) Now, you can restart the game after pressing "Enter". ( I believe I spent the most of my time working on this)
+
+### All the necessary files are in the folder called "FlappyBird-Space"
