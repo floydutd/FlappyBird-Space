@@ -20,7 +20,7 @@ And for the bird, I wanted to use a Sprite sheet but couldn't find it online and
 
 The Script may not be the best but I have tried to best so far. I know there's a lot to be added to the game and if you think you can help me with the sounds I was mentioning earlier and other stuffs that you think needs to be added to the game then PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
 
-#Physics for Collision
+#Physics behind Collision
 For the collision detection, I have used the basic concept of checking the distance between two objects. If the distance between the bird and the tunnel is equal to or less than the numbers I have predefined then it collides. The predefined numbes are found out by adding up the radius of the bird and half the width of the tunnel or radius of the bird and the height of the tunnel. It's not that complicated, when you go through the code you will have a better understanding of it.
 
 Talking about the progress with the code so far:
