@@ -13,7 +13,7 @@ And for the bird, I wanted to use a Sprite sheet but couldn't find it online and
 
 
 #The game looks like this:
-![ScreenShots](https://github.com/floydutd/FlappyBird-Space/blob/master/ScreenShots/Main-game.JPG)
+![ScreenShots](https://raw.githubusercontent.com/floydutd/FlappyBird-Space/master/ScreenShots/Main-game.JPG)
 ![ScreenShots](https://raw.githubusercontent.com/floydutd/FlappyBird-Space/master/ScreenShots/Game-Over.JPG)
 
 
